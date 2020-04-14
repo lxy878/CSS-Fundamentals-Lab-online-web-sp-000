@@ -16,11 +16,12 @@ img{
   display: block;
   margin: 0 auto;
 }
-figcaption{
-  font-size: 15px;
+#featured-property > p{
+  width: 800px;
   text-align: center;
 }
-section p {
+figcaption{
+  font-size: 15px;
   text-align: center;
 }
 
