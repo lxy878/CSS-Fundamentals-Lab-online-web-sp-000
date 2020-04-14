@@ -19,3 +19,7 @@ section p{
   text-align: center;
 
 }
+p #featured-property{
+  width: 800px;
+  text-align: center;
+}
