@@ -16,7 +16,9 @@ img{
   display: block;
   margin: 0 auto;
 }
-
+figcaption{
+  
+}
 section p {
   text-align: center;
 }
