@@ -23,6 +23,7 @@ img{
 figcaption{
   font-size: 15px;
   text-align: center;
+  margin: 0 auto;
 }
 
 #details{
