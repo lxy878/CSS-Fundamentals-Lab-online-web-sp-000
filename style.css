@@ -9,6 +9,9 @@ header{
 section #featured-property{
   display: block;
 }
+section #featured-property p{
+  text-align: center;
+}
 img{
   display: block;
   margin: 0 auto;
