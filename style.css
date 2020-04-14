@@ -6,6 +6,9 @@ body {
 header{
   text-align: center;
 }
+section #featured-property{
+  display: block;
+}
 img{
   display: block;
   margin: 0 auto;
