@@ -6,7 +6,12 @@ body {
 header{
   text-align: center;
 }
-
+nav a{
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey
+}
 img{
   display: block;
   margin: 0 auto;
@@ -21,12 +26,6 @@ section #featured-property p{
 figcaption{
   font-size: 15px;
   text-align: center;
-}
-nav a{
-  text-align: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: grey
 }
 #featured-property{
   width: 800px;
