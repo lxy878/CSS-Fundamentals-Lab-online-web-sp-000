@@ -20,5 +20,10 @@ nav a{
   text-align: center;
 }
 #details{
+  display: block;
 
+}
+
+div{
+  float: left;
 }
