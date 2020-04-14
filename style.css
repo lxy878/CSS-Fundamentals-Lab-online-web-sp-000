@@ -3,10 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
-header{
+/*header{
   text-align: center;
+}*/
+
+h1 {
+	text-align: center;
 }
-section #featured-property{
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+nav {
+	text-align: center;
+}
+
+nav > a {
+	padding: 0 10px;
+	background-color: magenta;
+}
+
+figcaption {
+	font-size: 10px;
+	text-align: center;
+}
+
+#featured-property > p {
+	margin: 0 auto;
+	width: 800px;
+}
+
+/*section #featured-property{
   display: block;
 }
 section #featured-property p{
@@ -39,4 +68,4 @@ div{
   width: 25%;
   text-align: center;
   background-color: red;
-}
+}*/
