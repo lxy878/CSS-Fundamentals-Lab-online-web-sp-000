@@ -6,6 +6,9 @@ body {
 header{
   text-align: center;
 }
+img{
+  text-align: center;
+}
 figcaption{
   font-size: 1px
 }
